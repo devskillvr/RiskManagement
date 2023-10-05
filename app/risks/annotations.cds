@@ -15,7 +15,7 @@ using RiskService from '../../srv/risk-service';
     },
     SelectionFields : [prio],
     Identification : [{Value : title}],
-    // Define the table columns
+    // Define the table columns //test git update
     LineItem : [
        {Value : title},
        {Value : miti_ID},
