@@ -14,7 +14,8 @@ To get started with the first exercise, simply run the following commands in you
 git clone https://github.com/SAP-samples/btp-side-by-side-extension-learning-journey
 ```
 
-We recommend to follow the instructions in the [learning journey](https://learning.sap.com/learning-journey/building-side-by-side-extensions-on-sap-btp) to get started.
+We recommend to follow the instructions in the [learning journey](https://learning.sap.com/learning-journey/building-side-by-side-exten                                                             
+                                     ions-on-sap-btp) to get started.
 
 
 If you want to start or continue from a specific unit or exercise, get the name of its branch from the tutorial, clone this repository and switch to the desired branch:
